@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CurrencyRoot xmlns="http://openuri.org/currency">
+<Currency>
+<CurencyName>US DOLLAR</CurencyName>
+<BanknoteBuying>2.5681</BanknoteBuying>
+<BanknoteSelling>2.5784</BanknoteSelling>
+<From>USD</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>AUSTRALIAN DOLLAR</CurencyName>
+<BanknoteBuying>1.989</BanknoteBuying>
+<BanknoteSelling>2.0233</BanknoteSelling>
+<From>AUD</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>DANISH KRONE</CurencyName>
+<BanknoteBuying>0.37295</BanknoteBuying>
+<BanknoteSelling>0.3759</BanknoteSelling>
+<From>DKK</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>EURO</CurencyName>
+<BanknoteBuying>2.7845</BanknoteBuying>
+<BanknoteSelling>2.7958</BanknoteSelling>
+<From>EUR</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>POUND STERLING</CurencyName>
+<BanknoteBuying>3.8171</BanknoteBuying>
+<BanknoteSelling>3.8455</BanknoteSelling>
+<From>GBP</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>SWISS FRANK</CurencyName>
+<BanknoteBuying>2.6247</BanknoteBuying>
+<BanknoteSelling>2.6495</BanknoteSelling>
+<From>CHF</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>SWEDISH KRONA</CurencyName>
+<BanknoteBuying>0.29797</BanknoteBuying>
+<BanknoteSelling>0.30196</BanknoteSelling>
+<From>SEK</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>CANADIAN DOLLAR</CurencyName>
+<BanknoteBuying>2.0333</BanknoteBuying>
+<BanknoteSelling>2.0579</BanknoteSelling>
+<From>CAD</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>KUWAITI DINAR</CurencyName>
+<BanknoteBuying>8.4009</BanknoteBuying>
+<BanknoteSelling>8.77</BanknoteSelling>
+<From>KWD</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>NORWEGIAN KRONE</CurencyName>
+<BanknoteBuying>0.32033</BanknoteBuying>
+<BanknoteSelling>0.32344</BanknoteSelling>
+<From>NOK</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>SAUDI RIYAL</CurencyName>
+<BanknoteBuying>0.68005</BanknoteBuying>
+<BanknoteSelling>0.69158</BanknoteSelling>
+<From>SAR</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>JAPENESE YEN</CurencyName>
+<BanknoteBuying>2.1297</BanknoteBuying>
+<BanknoteSelling>2.16</BanknoteSelling>
+<From>JPY</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>BULGARIAN LEV</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>BGN</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>NEW LEU</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>RON</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>RUSSIAN ROUBLE</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>RUB</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>IRANIAN RIAL</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>IRR</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>CHINESE RENMINBI</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>CNY</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName>PAKISTANI RUPEE</CurencyName>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>PKR</From>
+<To>TRY</To>
+</Currency>
+<Currency>
+<CurencyName/>
+<BanknoteBuying/>
+<BanknoteSelling/>
+<From>XDR</From>
+<To>TRY</To>
+</Currency>
+</CurrencyRoot>
